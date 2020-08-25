@@ -6,3 +6,4 @@ This repository contains some of the work I have created using Tableau. The file
 * [03 - Profit Margins Europe](https://public.tableau.com/views/03-ProfitMarginsEurope/Dashboard1?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link)
 * [04 - Sales Performance vs. Targets](https://public.tableau.com/profile/roland.rossel#!/vizhome/04-SalesPerformancevs_Targets/Sheet1)
 * [05 - Customer Segmentation Dashboard](https://public.tableau.com/views/05-CustomerSegmentationforUKBank/Story2?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link)
+* [06 - Used Cars in Germany](https://public.tableau.com/views/06-UsedCarsinGermany/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link)
