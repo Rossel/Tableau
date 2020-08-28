@@ -7,3 +7,4 @@ This repository contains some of the work I have created using Tableau. The file
 * [04 - Sales Performance vs. Targets](https://public.tableau.com/profile/roland.rossel#!/vizhome/04-SalesPerformancevs_Targets/Sheet1)
 * [05 - Customer Segmentation Dashboard](https://public.tableau.com/views/05-CustomerSegmentationforUKBank/Story2?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link)
 * [06 - Used Cars in Germany](https://public.tableau.com/views/06-UsedCarsinGermany/Dashboard1?:language=en-GB&:display_count=y&:origin=viz_share_link)
+* [07 - The Startup Quadrant](https://public.tableau.com/views/07-TheStartupQuadrant/TheStartupQuadrant?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link)
